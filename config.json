@@ -1,5 +1,4 @@
 {
-    "token": "YOUR_BOT_TOKEN",
     "prefix": "YOUR_BOT_PREFIX",
     "mongooseConnectionString": ""
 }
